@@ -8,14 +8,14 @@
 
 ## Modulos a Desarrollar
 
--Jesús 	: Backend
--Álvaro 	: Informes de Tutoría
--Juan	: Reserva de equipamiento y dependencias
--Pepe	: Mensajeria Interna
--Patricia: Actas de departamento, reunión padres/tutores
--Cristian: Actas de evaluación
--Adrián 	: Incidencias TIC
--Antonio	: Frontend
+ - Jesús , Backend
+ - Álvaro , Informes de Tutoría
+ - Juan , Reserva de equipamiento y dependencias
+ - Pepe , Mensajeria Interna
+ - Patricia , Actas de departamento, reunión padres/tutores
+ - Cristian , Actas de evaluación
+ - Adrián , Incidencias TIC
+ - Antonio , Frontend
 
 ## Instrucciones
 
