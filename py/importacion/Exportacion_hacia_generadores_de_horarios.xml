@@ -1,0 +1,2659 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<SERVICIO modulo="HORARIOS" tipo="E" autor="SENECA" fecha="27/10/2015 12:50:02">
+  <BLOQUE_DATOS>
+    <grupo_datos seq="ANNO_ACADEMICO">
+      <dato nombre_dato="C_ANNO">2015</dato>
+      <dato nombre_dato="F_INIHORREG"></dato>
+      <dato nombre_dato="F_FINHORREG"></dato>
+    </grupo_datos>
+    <grupo_datos seq="CURSOS_DEL_CENTRO" registros="13">
+      <grupo_datos seq="CURSO_1">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">1º de E.S.O.</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_2">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">2º de E.S.O.</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_3">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">3º de E.S.O.</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_4">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">4º de E.S.O.</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_5">
+        <dato nombre_dato="X_OFERTAMATRIG">7858</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">2º de P.C.P.I. (Auxiliar Informático)</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_6">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">1º de Bachillerato (Ciencias)</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_7">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">1º de Bachillerato (Humanidades y Ciencias Sociales (Lomce))</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_8">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">2º de Bachillerato (Ciencias y Tecnología)</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_9">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">2º de Bachillerato (Humanidades y Ciencias Sociales)</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_10">
+        <dato nombre_dato="X_OFERTAMATRIG">103675</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">1º F.P.I.G.S. (Administración de Sistemas Informáticos en Red)</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_11">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">2º F.P.I.G.S. (Administración de Sistemas Informáticos en Red)</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_12">
+        <dato nombre_dato="X_OFERTAMATRIG">105806</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">1º de F.P.B. (Informática y Comunicaciones)</dato>
+      </grupo_datos>
+      <grupo_datos seq="CURSO_13">
+        <dato nombre_dato="X_OFERTAMATRIG">105825</dato>
+        <dato nombre_dato="D_OFERTAMATRIG">2º de F.P.B. (Informática y Comunicaciones)</dato>
+      </grupo_datos>
+    </grupo_datos>
+    <grupo_datos seq="MATERIAS" registros="179">
+      <grupo_datos seq="MATERIA_1">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Lengua Castellana y Literatura</dato>
+        <dato nombre_dato="X_MATERIAOMG">6990</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_2">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Inglés</dato>
+        <dato nombre_dato="X_MATERIAOMG">6992</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_3">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Religión y Moral Católica</dato>
+        <dato nombre_dato="X_MATERIAOMG">6994</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_4">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Griego</dato>
+        <dato nombre_dato="X_MATERIAOMG">6995</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_5">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Geografía</dato>
+        <dato nombre_dato="X_MATERIAOMG">6998</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_6">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Francés (Segundo Idioma)</dato>
+        <dato nombre_dato="X_MATERIAOMG">7000</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_7">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas Aplicadas a las Ciencias Sociales</dato>
+        <dato nombre_dato="X_MATERIAOMG">7007</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_8">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Historia del Arte</dato>
+        <dato nombre_dato="X_MATERIAOMG">7018</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_9">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Latín</dato>
+        <dato nombre_dato="X_MATERIAOMG">7021</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_10">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Historia de España</dato>
+        <dato nombre_dato="X_MATERIAOMG">37722</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_11">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Historia de la Filosofía</dato>
+        <dato nombre_dato="X_MATERIAOMG">37723</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_12">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Atención Educativa</dato>
+        <dato nombre_dato="X_MATERIAOMG">37724</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_13">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Historia de la Música y de la Danza</dato>
+        <dato nombre_dato="X_MATERIAOMG">37727</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_14">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Ciencias de la Tierra y Medioambientales</dato>
+        <dato nombre_dato="X_MATERIAOMG">37729</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_15">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Economía de la Empresa</dato>
+        <dato nombre_dato="X_MATERIAOMG">37730</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_16">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Tecnologías de la Información y la Comunicación</dato>
+        <dato nombre_dato="X_MATERIAOMG">37731</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_17">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Proyecto Integrado</dato>
+        <dato nombre_dato="X_MATERIAOMG">37732</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_18">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Estadística</dato>
+        <dato nombre_dato="X_MATERIAOMG">37912</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_19">
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Física</dato>
+        <dato nombre_dato="X_MATERIAOMG">37913</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_20">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Historia de la Filosofía</dato>
+        <dato nombre_dato="X_MATERIAOMG">37612</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_21">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Historia de España</dato>
+        <dato nombre_dato="X_MATERIAOMG">37613</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_22">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Lengua Castellana y Literatura</dato>
+        <dato nombre_dato="X_MATERIAOMG">37614</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_23">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Inglés</dato>
+        <dato nombre_dato="X_MATERIAOMG">37617</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_24">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Biología</dato>
+        <dato nombre_dato="X_MATERIAOMG">37619</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_25">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Dibujo Técnico</dato>
+        <dato nombre_dato="X_MATERIAOMG">37621</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_26">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Física</dato>
+        <dato nombre_dato="X_MATERIAOMG">37623</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_27">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas</dato>
+        <dato nombre_dato="X_MATERIAOMG">37630</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_28">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Química</dato>
+        <dato nombre_dato="X_MATERIAOMG">37631</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_29">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Historia de la Música y de la Danza</dato>
+        <dato nombre_dato="X_MATERIAOMG">37636</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_30">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Ciencias de la Tierra y Medioambientales</dato>
+        <dato nombre_dato="X_MATERIAOMG">37638</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_31">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Economía de la Empresa</dato>
+        <dato nombre_dato="X_MATERIAOMG">37639</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_32">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Tecnologías de la Información y la Comunicación</dato>
+        <dato nombre_dato="X_MATERIAOMG">37640</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_33">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Atención Educativa</dato>
+        <dato nombre_dato="X_MATERIAOMG">37641</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_34">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Religión y Moral Católica</dato>
+        <dato nombre_dato="X_MATERIAOMG">37645</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_35">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Francés (Segundo Idioma)</dato>
+        <dato nombre_dato="X_MATERIAOMG">37647</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_36">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Proyecto Integrado</dato>
+        <dato nombre_dato="X_MATERIAOMG">37651</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_37">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Estadística</dato>
+        <dato nombre_dato="X_MATERIAOMG">37907</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_38">
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Física</dato>
+        <dato nombre_dato="X_MATERIAOMG">37908</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_39">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Lengua Castellana y Literatura</dato>
+        <dato nombre_dato="X_MATERIAOMG">25117</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_40">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Inglés</dato>
+        <dato nombre_dato="X_MATERIAOMG">25119</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_41">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Música</dato>
+        <dato nombre_dato="X_MATERIAOMG">25120</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_42">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Religión y Moral Católica</dato>
+        <dato nombre_dato="X_MATERIAOMG">25122</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_43">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas</dato>
+        <dato nombre_dato="X_MATERIAOMG">25124</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_44">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Física</dato>
+        <dato nombre_dato="X_MATERIAOMG">25126</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_45">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Francés (Segundo Idioma)</dato>
+        <dato nombre_dato="X_MATERIAOMG">25131</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_46">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Cambios Sociales y Nuevas Relaciones de Género</dato>
+        <dato nombre_dato="X_MATERIAOMG">30523</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_47">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Refuerzo de Matemáticas</dato>
+        <dato nombre_dato="X_MATERIAOMG">30802</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_48">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Libre Disposición 1</dato>
+        <dato nombre_dato="X_MATERIAOMG">32882</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_49">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Libre Disposición 2</dato>
+        <dato nombre_dato="X_MATERIAOMG">32902</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_50">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Biología y Geología</dato>
+        <dato nombre_dato="X_MATERIAOMG">135221</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_51">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Geografía e Historia</dato>
+        <dato nombre_dato="X_MATERIAOMG">135222</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_52">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Valores Éticos</dato>
+        <dato nombre_dato="X_MATERIAOMG">135223</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_53">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Tecnología</dato>
+        <dato nombre_dato="X_MATERIAOMG">135224</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_54">
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Plástica Visual y Audiovisual</dato>
+        <dato nombre_dato="X_MATERIAOMG">135226</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_55">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Lengua Castellana y Literatura</dato>
+        <dato nombre_dato="X_MATERIAOMG">25141</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_56">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Inglés</dato>
+        <dato nombre_dato="X_MATERIAOMG">25143</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_57">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Música</dato>
+        <dato nombre_dato="X_MATERIAOMG">25144</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_58">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Ciencias Sociales, Geografía e Historia</dato>
+        <dato nombre_dato="X_MATERIAOMG">25145</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_59">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Religión y Moral Católica</dato>
+        <dato nombre_dato="X_MATERIAOMG">25146</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_60">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas</dato>
+        <dato nombre_dato="X_MATERIAOMG">25148</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_61">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Ciencias de la Naturaleza</dato>
+        <dato nombre_dato="X_MATERIAOMG">25149</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_62">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Física</dato>
+        <dato nombre_dato="X_MATERIAOMG">25150</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_63">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Francés (Segundo Idioma)</dato>
+        <dato nombre_dato="X_MATERIAOMG">25155</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_64">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Plástica y Visual</dato>
+        <dato nombre_dato="X_MATERIAOMG">25156</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_65">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Tecnologías</dato>
+        <dato nombre_dato="X_MATERIAOMG">31302</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_66">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Cambios Sociales y Nuevas Relaciones de Género</dato>
+        <dato nombre_dato="X_MATERIAOMG">31303</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_67">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Los Métodos de la Ciencia</dato>
+        <dato nombre_dato="X_MATERIAOMG">31304</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_68">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Refuerzo de Matemáticas</dato>
+        <dato nombre_dato="X_MATERIAOMG">31305</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_69">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Libre Disposición 1</dato>
+        <dato nombre_dato="X_MATERIAOMG">32883</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_70">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Libre Disposición 2</dato>
+        <dato nombre_dato="X_MATERIAOMG">32906</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_71">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Atención Educativa</dato>
+        <dato nombre_dato="X_MATERIAOMG">32963</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_72">
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+        <dato nombre_dato="D_MATERIAC">Optativa 6 de libre configuración</dato>
+        <dato nombre_dato="X_MATERIAOMG">137347</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_73">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Lengua Castellana y Literatura</dato>
+        <dato nombre_dato="X_MATERIAOMG">25169</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_74">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Inglés</dato>
+        <dato nombre_dato="X_MATERIAOMG">25171</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_75">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Religión y Moral Católica</dato>
+        <dato nombre_dato="X_MATERIAOMG">25174</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_76">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Física</dato>
+        <dato nombre_dato="X_MATERIAOMG">25178</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_77">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Cultura Clásica I</dato>
+        <dato nombre_dato="X_MATERIAOMG">25179</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_78">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Francés (Segundo Idioma)</dato>
+        <dato nombre_dato="X_MATERIAOMG">25188</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_79">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Cambios Sociales y Nuevas Relaciones de Género</dato>
+        <dato nombre_dato="X_MATERIAOMG">25202</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_80">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Educación para la Ciudadanía y los Derechos Humanos</dato>
+        <dato nombre_dato="X_MATERIAOMG">30544</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_81">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Refuerzo de Matemáticas</dato>
+        <dato nombre_dato="X_MATERIAOMG">30803</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_82">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Refuerzo de Lengua</dato>
+        <dato nombre_dato="X_MATERIAOMG">30826</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_83">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Taller de Cerámica</dato>
+        <dato nombre_dato="X_MATERIAOMG">30827</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_84">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Informática</dato>
+        <dato nombre_dato="X_MATERIAOMG">30828</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_85">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Geografía e Historia</dato>
+        <dato nombre_dato="X_MATERIAOMG">135227</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_86">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Valores Éticos</dato>
+        <dato nombre_dato="X_MATERIAOMG">135229</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_87">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas orientadas a las enseñanzas académicas</dato>
+        <dato nombre_dato="X_MATERIAOMG">135230</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_88">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas orientadas a las enseñanzas aplicadas</dato>
+        <dato nombre_dato="X_MATERIAOMG">135231</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_89">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Biología y Geología</dato>
+        <dato nombre_dato="X_MATERIAOMG">135249</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_90">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Física y Química</dato>
+        <dato nombre_dato="X_MATERIAOMG">135250</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_91">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Tecnología</dato>
+        <dato nombre_dato="X_MATERIAOMG">135389</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_92">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Ámbito Científico-Matemático</dato>
+        <dato nombre_dato="X_MATERIAOMG">135784</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_93">
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+        <dato nombre_dato="D_MATERIAC">Ámbito Sociolingüístico</dato>
+        <dato nombre_dato="X_MATERIAOMG">135785</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_94">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Tecnología</dato>
+        <dato nombre_dato="X_MATERIAOMG">25216</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_95">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Francés (Segundo Idioma)</dato>
+        <dato nombre_dato="X_MATERIAOMG">25218</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_96">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Plástica y Visual</dato>
+        <dato nombre_dato="X_MATERIAOMG">25219</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_97">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Ámbito Sociolingüístico</dato>
+        <dato nombre_dato="X_MATERIAOMG">25226</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_98">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Ámbito Científico-Tecnológico</dato>
+        <dato nombre_dato="X_MATERIAOMG">25227</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_99">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Lengua Castellana y Literatura</dato>
+        <dato nombre_dato="X_MATERIAOMG">25232</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_100">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Inglés</dato>
+        <dato nombre_dato="X_MATERIAOMG">25235</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_101">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Música</dato>
+        <dato nombre_dato="X_MATERIAOMG">25236</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_102">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Ciencias Sociales, Geografía e Historia</dato>
+        <dato nombre_dato="X_MATERIAOMG">25237</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_103">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Religión y Moral Católica</dato>
+        <dato nombre_dato="X_MATERIAOMG">25238</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_104">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas</dato>
+        <dato nombre_dato="X_MATERIAOMG">25240</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_105">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Física</dato>
+        <dato nombre_dato="X_MATERIAOMG">25242</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_106">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Física y Química</dato>
+        <dato nombre_dato="X_MATERIAOMG">25246</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_107">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Biología y Geología</dato>
+        <dato nombre_dato="X_MATERIAOMG">25247</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_108">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas A</dato>
+        <dato nombre_dato="X_MATERIAOMG">25248</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_109">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas B</dato>
+        <dato nombre_dato="X_MATERIAOMG">25249</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_110">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Ético-Cívica</dato>
+        <dato nombre_dato="X_MATERIAOMG">31323</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_111">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Informática</dato>
+        <dato nombre_dato="X_MATERIAOMG">31324</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_112">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Latín</dato>
+        <dato nombre_dato="X_MATERIAOMG">31325</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_113">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Proyecto Integrado</dato>
+        <dato nombre_dato="X_MATERIAOMG">31326</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_114">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Robótica</dato>
+        <dato nombre_dato="X_MATERIAOMG">31327</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_115">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Ciencia Práctica</dato>
+        <dato nombre_dato="X_MATERIAOMG">31328</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_116">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Speaking in English</dato>
+        <dato nombre_dato="X_MATERIAOMG">31329</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_117">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Informática Aplicada</dato>
+        <dato nombre_dato="X_MATERIAOMG">31330</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_118">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Actividad Física y Salud</dato>
+        <dato nombre_dato="X_MATERIAOMG">31331</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_119">
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+        <dato nombre_dato="D_MATERIAC">Atención Educativa</dato>
+        <dato nombre_dato="X_MATERIAOMG">32982</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_120">
+        <dato nombre_dato="X_OFERTAMATRIG">103675</dato>
+        <dato nombre_dato="D_MATERIAC">Implantación de sistemas operativos</dato>
+        <dato nombre_dato="X_MATERIAOMG">40862</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_121">
+        <dato nombre_dato="X_OFERTAMATRIG">103675</dato>
+        <dato nombre_dato="D_MATERIAC">Planificación y administración de redes</dato>
+        <dato nombre_dato="X_MATERIAOMG">40863</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_122">
+        <dato nombre_dato="X_OFERTAMATRIG">103675</dato>
+        <dato nombre_dato="D_MATERIAC">Fundamentos de hardware</dato>
+        <dato nombre_dato="X_MATERIAOMG">40864</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_123">
+        <dato nombre_dato="X_OFERTAMATRIG">103675</dato>
+        <dato nombre_dato="D_MATERIAC">Gestión de bases de datos</dato>
+        <dato nombre_dato="X_MATERIAOMG">40865</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_124">
+        <dato nombre_dato="X_OFERTAMATRIG">103675</dato>
+        <dato nombre_dato="D_MATERIAC">Lenguajes de marcas y sistemas de gestión de información</dato>
+        <dato nombre_dato="X_MATERIAOMG">40866</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_125">
+        <dato nombre_dato="X_OFERTAMATRIG">103675</dato>
+        <dato nombre_dato="D_MATERIAC">Formación y Orientación Laboral</dato>
+        <dato nombre_dato="X_MATERIAOMG">40867</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_126">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_MATERIAC">Administración de sistemas operativos</dato>
+        <dato nombre_dato="X_MATERIAOMG">41082</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_127">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_MATERIAC">Servicios de red e Internet</dato>
+        <dato nombre_dato="X_MATERIAOMG">41083</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_128">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_MATERIAC">Implantación de aplicaciones web</dato>
+        <dato nombre_dato="X_MATERIAOMG">41084</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_129">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_MATERIAC">Administración de sistemas gestores de bases de datos</dato>
+        <dato nombre_dato="X_MATERIAOMG">41085</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_130">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_MATERIAC">Seguridad y alta disponibilidad</dato>
+        <dato nombre_dato="X_MATERIAOMG">41086</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_131">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_MATERIAC">Proyecto de administración de sistemas informáticos en red</dato>
+        <dato nombre_dato="X_MATERIAOMG">41087</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_132">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_MATERIAC">Empresa e Iniciativa Emprendedora</dato>
+        <dato nombre_dato="X_MATERIAOMG">41088</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_133">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_MATERIAC">Formación en Centros de Trabajo</dato>
+        <dato nombre_dato="X_MATERIAOMG">41089</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_134">
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+        <dato nombre_dato="D_MATERIAC">Horas de Libre Configuración</dato>
+        <dato nombre_dato="X_MATERIAOMG">41090</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_135">
+        <dato nombre_dato="X_OFERTAMATRIG">105806</dato>
+        <dato nombre_dato="D_MATERIAC">Ciencias aplicadas I</dato>
+        <dato nombre_dato="X_MATERIAOMG">127239</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_136">
+        <dato nombre_dato="X_OFERTAMATRIG">105806</dato>
+        <dato nombre_dato="D_MATERIAC">Comunicación y sociedad I</dato>
+        <dato nombre_dato="X_MATERIAOMG">127240</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_137">
+        <dato nombre_dato="X_OFERTAMATRIG">105806</dato>
+        <dato nombre_dato="D_MATERIAC">Equipos eléctricos y electrónicos</dato>
+        <dato nombre_dato="X_MATERIAOMG">127241</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_138">
+        <dato nombre_dato="X_OFERTAMATRIG">105806</dato>
+        <dato nombre_dato="D_MATERIAC">UF-Formación en Centros de Trabajo</dato>
+        <dato nombre_dato="X_MATERIAOMG">127242</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_139">
+        <dato nombre_dato="X_OFERTAMATRIG">105806</dato>
+        <dato nombre_dato="D_MATERIAC">Montaje y mantenimiento de sistemas y componentes informáticos</dato>
+        <dato nombre_dato="X_MATERIAOMG">127243</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_140">
+        <dato nombre_dato="X_OFERTAMATRIG">105806</dato>
+        <dato nombre_dato="D_MATERIAC">Operaciones auxiliares para la configuración y la explotación</dato>
+        <dato nombre_dato="X_MATERIAOMG">137128</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_141">
+        <dato nombre_dato="X_OFERTAMATRIG">105825</dato>
+        <dato nombre_dato="D_MATERIAC">Ciencias aplicadas II</dato>
+        <dato nombre_dato="X_MATERIAOMG">127367</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_142">
+        <dato nombre_dato="X_OFERTAMATRIG">105825</dato>
+        <dato nombre_dato="D_MATERIAC">Comunicación y sociedad II</dato>
+        <dato nombre_dato="X_MATERIAOMG">127368</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_143">
+        <dato nombre_dato="X_OFERTAMATRIG">105825</dato>
+        <dato nombre_dato="D_MATERIAC">Formación en Centros de Trabajo</dato>
+        <dato nombre_dato="X_MATERIAOMG">127369</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_144">
+        <dato nombre_dato="X_OFERTAMATRIG">105825</dato>
+        <dato nombre_dato="D_MATERIAC">Instalación y mantenimiento de redes para transmisión de datos</dato>
+        <dato nombre_dato="X_MATERIAOMG">127370</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_145">
+        <dato nombre_dato="X_OFERTAMATRIG">105825</dato>
+        <dato nombre_dato="D_MATERIAC">Operaciones auxiliares para la configuración y la explotación</dato>
+        <dato nombre_dato="X_MATERIAOMG">127371</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_146">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Lengua Castellana y Literatura</dato>
+        <dato nombre_dato="X_MATERIAOMG">135657</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_147">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Inglés</dato>
+        <dato nombre_dato="X_MATERIAOMG">135658</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_148">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Filosofía</dato>
+        <dato nombre_dato="X_MATERIAOMG">135662</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_149">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas</dato>
+        <dato nombre_dato="X_MATERIAOMG">135663</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_150">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Física</dato>
+        <dato nombre_dato="X_MATERIAOMG">135664</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_151">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Física y Química</dato>
+        <dato nombre_dato="X_MATERIAOMG">135666</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_152">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Biología y Geología</dato>
+        <dato nombre_dato="X_MATERIAOMG">135667</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_153">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Dibujo Técnico</dato>
+        <dato nombre_dato="X_MATERIAOMG">135668</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_154">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Tecnología Industrial</dato>
+        <dato nombre_dato="X_MATERIAOMG">135669</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_155">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Anatomía Aplicada</dato>
+        <dato nombre_dato="X_MATERIAOMG">135670</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_156">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Religión y Moral Católica</dato>
+        <dato nombre_dato="X_MATERIAOMG">135674</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_157">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Educación para la Ciudadanía y los Derechos Humanos</dato>
+        <dato nombre_dato="X_MATERIAOMG">135675</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_158">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Cultura científica</dato>
+        <dato nombre_dato="X_MATERIAOMG">135676</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_159">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Tecnologías de la Información y la Comunicación</dato>
+        <dato nombre_dato="X_MATERIAOMG">135677</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_160">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Francés (Segundo Idioma)</dato>
+        <dato nombre_dato="X_MATERIAOMG">135770</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_161">
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+        <dato nombre_dato="D_MATERIAC">Historia del Mundo Contemporáneo</dato>
+        <dato nombre_dato="X_MATERIAOMG">137052</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_162">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Lengua Castellana y Literatura</dato>
+        <dato nombre_dato="X_MATERIAOMG">135678</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_163">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Inglés</dato>
+        <dato nombre_dato="X_MATERIAOMG">135679</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_164">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Filosofía</dato>
+        <dato nombre_dato="X_MATERIAOMG">135683</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_165">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Educación Física</dato>
+        <dato nombre_dato="X_MATERIAOMG">135684</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_166">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Latín</dato>
+        <dato nombre_dato="X_MATERIAOMG">135686</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_167">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Matemáticas Aplicadas a las Ciencias Sociales</dato>
+        <dato nombre_dato="X_MATERIAOMG">135687</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_168">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Economía</dato>
+        <dato nombre_dato="X_MATERIAOMG">135688</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_169">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Griego</dato>
+        <dato nombre_dato="X_MATERIAOMG">135689</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_170">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Historia del Mundo Contemporáneo</dato>
+        <dato nombre_dato="X_MATERIAOMG">135709</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_171">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Literatura Universal</dato>
+        <dato nombre_dato="X_MATERIAOMG">135710</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_172">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Cultura emprendedora y empresarial</dato>
+        <dato nombre_dato="X_MATERIAOMG">135712</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_173">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Tecnologías de la Información y la Comunicación</dato>
+        <dato nombre_dato="X_MATERIAOMG">135713</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_174">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Religión y Moral Católica</dato>
+        <dato nombre_dato="X_MATERIAOMG">135717</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_175">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Educación para la Ciudadanía y los Derechos Humanos</dato>
+        <dato nombre_dato="X_MATERIAOMG">135718</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_176">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Cultura científica</dato>
+        <dato nombre_dato="X_MATERIAOMG">135719</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_177">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Francés (Segundo Idioma)</dato>
+        <dato nombre_dato="X_MATERIAOMG">135777</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_178">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Patrimonio cultural y artístico de Andalucía</dato>
+        <dato nombre_dato="X_MATERIAOMG">135783</dato>
+      </grupo_datos>
+      <grupo_datos seq="MATERIA_179">
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+        <dato nombre_dato="D_MATERIAC">Lengua y Literatura Francesa</dato>
+        <dato nombre_dato="X_MATERIAOMG">137053</dato>
+      </grupo_datos>
+    </grupo_datos>
+    <grupo_datos seq="ACTIVIDADES" registros="111">
+      <grupo_datos seq="ACTIVIDAD_1">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">340</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Activ. órg. unipers. cuando no tengan reduc. horaria</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_2">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">659</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Actividades complementarias programadas (Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_3">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">660</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Actividades complementarias programadas (No Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_4">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">661</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Actividades complementarias programadas (No Regular)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_5">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">156</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Actividades de formación y perfeccionamiento</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_6">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">381</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Actividades de tutoría</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_7">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">289</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Actividades extraescolares y complementarias</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_8">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">576</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Asesoría de formación permanente (CEP)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_9">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">286</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Asist. reuniones Equipo Técnico Coord. Pedagógica</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_10">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">284</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Asistencia a Claustro de Profesores</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_11">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">399</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Asistencia a Consejo de Centro</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_12">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">5</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Asistencia a Consejo Escolar</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_13">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">346</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Asistencia a órganos colegiados</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_14">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">354</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Asistencia a reuniones de Equipos Educativos</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_15">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">285</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Asistencia a reuniones del Equipo Directivo</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_16">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">36</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Asistencia a sesiones de evaluación</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_17">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">159</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Atención a problemas de aprendizaje del alumnado</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_18">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">556</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Atención individualizada en Planes Educativos de Acceso y Titulación</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_19">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">217</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Audición y Lenguaje</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_20">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">696</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coord. Prevención de Riesgos laborales (Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_21">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">496</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coord. Prevención de Riesgos laborales (No Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_22">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">338</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación con Equipo de Orientación Educativa</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_23">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">737</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación de Coeducación (Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_24">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">339</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación de Coeducación (No Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_25">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">739</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación de Convivencia (Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_26">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">740</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación de Convivencia (No Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_27">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">116</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación de equipos de ciclos y de orientación</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_28">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">718</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación del área de competencia artística</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_29">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">717</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación del área de competencia científico-tecnológica</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_30">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">716</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación del área de competencia social-lingüística</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_31">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">719</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación del área de formación profesional</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_32">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">282</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación Enseñanzas Bilingües</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_33">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">283</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación Plan de Apoyo a las Familias</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_34">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">350</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación Proyectos de Calidad (Form. Profes.)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_35">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">281</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación Tecnología Informac. y la Comunic.</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_36">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">343</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Coordinación y funcionamiento</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_37">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">98</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Cumplimentar documentos académicos del alumnado</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_38">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">46</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Dedicación sindical (Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_39">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">738</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Dedicación sindical (No Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_40">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">1</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Docencia</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">S</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_41">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">636</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Docencia bilingüe</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">S</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_42">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">880</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Docencia Dual</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">S</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_43">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">476</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Docencia telemática</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">S</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_44">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">290</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Docencia 0-2 años</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_45">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">347</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Educación Especial</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_46">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">344</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Elab. valorac. periód. y eval. Plan Anual y Memoria</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_47">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">99</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Elaboración de materiales curriculares</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_48">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">780</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Elaboración y actualización coordinada de materiales a distancia</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_49">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">277</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Enseñanzas Complementarias</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">S</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_50">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">385</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Equipo de Coordinación TIC</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_51">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">44</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Función directiva</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_52">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">779</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Gestión Concierto Único</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_53">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">49</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Guarda Legal (Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_54">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">676</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Guarda Legal (No Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_55">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">759</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Horas Compromiso LEA</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">S</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_56">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">597</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Horas correspondientes a las actividades presenciales de los módulos de ciclos a distancia.</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">S</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_57">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">400</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Horas de desplazamiento para asistencia a reuniones de coordinación</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_58">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">596</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Horas de libre configuración en los ciclos LOE como actividad de docencia.</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_59">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">416</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Impartición C.A.L. (Cursos de actualización lingüística)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_60">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">436</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Impartición C.A.L. (Cursos de actualización lingüística)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_61">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">43</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Itinerancia para impartir docencia</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_62">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">45</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Jefatura de Departamentos</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_63">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">384</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Jefatura de departamentos / Responsables de nivel</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_64">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">318</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Jefatura de departamentos/Responsables de nivel (EOIs)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_65">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">176</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Mayores de 55 años</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_66">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">456</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Miembro de Consejo de Centro de Profesorado</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_67">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">656</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Organización y funcionamiento biblioteca centro (Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_68">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">26</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Organización y funcionamiento biblioteca centro (No Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_69">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">288</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Organización y mantenimiento material educativo</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_70">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">50</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Orientador Escolar</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_71">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">657</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Otras actividades que determine el Plan de Centro (Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_72">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">658</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Otras actividades que determine el Plan de Centro (No Lectiva)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_73">
+        <dato nombre_dato="L_REGULAR">N</dato>
+        <dato nombre_dato="X_ACTIVIDAD">96</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Participación en los Órganos de Gobierno y planificación de tareas del Eq.Docen.</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_74">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">136</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Pedagogía Terapéutica</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_75">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">97</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Planif. y valorac. en equipo proc. enseñ.-aprend. ...</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_76">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">800</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Planificación, organización y seguimiento de actividades de Investigación e inmovación Educativas</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_77">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">376</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Profesorado de áreas no lingüísticas(centros bilingües)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_78">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">383</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Program. de activ. educ. En su caso seguim. Del del programa de FCT</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_79">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">22</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Programación de actividades educativas</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_80">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">396</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Programación y organización de actividades complementarias y de extensión cultural</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_81">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">516</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Programas de Refuerzo</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_82">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">216</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Recreo (en Infantil/Primaria)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_83">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">21</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Refuerzo pedagógico</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_84">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">345</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Registros personales alumnado y otros documentos</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_85">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">840</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Reuniones Coordinación Bilingüismo</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_86">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">380</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Reuniones de coord. grado Element. (C.P.M. caso de impartir ese grado)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_87">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">377</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Reuniones de coordinación docente (tutores, orientador,...)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_88">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">51</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Reuniones de Departamentos</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_89">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">397</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Reuniones de Equ. de Coord. de Planes Educ. de Form. Básica y de otros Planes educativos</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_90">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">6</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Reuniones de profesores con padres y madres</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_91">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">398</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Reuniones de programación y evaluación de las actividades del centro</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_92">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">157</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Reuniones Equipos Ciclo y en su caso con Dptos IES</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_93">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">25</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Servicio de guardia</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_94">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">353</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Servicio de guardia de recreo (ESO)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_95">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">378</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Sesiones de evaluación y seguimiento del Plan Tutorial</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_96">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">781</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tareas de coordinanción, organización y gestión del centro (centros Concertados)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_97">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">736</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Thas¿t English Sesión Presencial</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_98">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">279</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutor de Ciclo Formativo (Formación Profesional)</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_99">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">616</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría (BTOPA)</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_100">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">351</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría con alumnado (Bachillerato/Formac. Profes.)</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_101">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">297</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría con alumnado (CEPER/SEPER)</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_102">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">2</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría con alumnos (ESO)</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_103">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">820</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría con alumnos FPB</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_104">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">860</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría con alumnos F.P.Básica</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_105">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">117</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría de Atención a Padres y Madres</dato>
+        <dato nombre_dato="L_REQUNIDAD">N</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_106">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">356</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría de atención personalizada al alumnado y familia (ESO)</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_107">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">349</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría (ESPA)</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_108">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">319</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría (Infantil-Primaria)</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_109">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">118</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría para tareas administrativas</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_110">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">861</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría P.M.A.R. (Orientador/a)</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+      <grupo_datos seq="ACTIVIDAD_111">
+        <dato nombre_dato="L_REGULAR">S</dato>
+        <dato nombre_dato="X_ACTIVIDAD">386</dato>
+        <dato nombre_dato="D_ACTIVIDAD">Tutoría Programa Diversificación Curricular (Orientador/a)</dato>
+        <dato nombre_dato="L_REQUNIDAD">S</dato>
+        <dato nombre_dato="L_REQMATERIA">N</dato>
+      </grupo_datos>
+    </grupo_datos>
+    <grupo_datos seq="DEPENDENCIAS" registros="32">
+      <grupo_datos seq="DEPENDENCIA_1">
+        <dato nombre_dato="X_DEPENDENCIA">106724</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE FRANCÉS</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_2">
+        <dato nombre_dato="X_DEPENDENCIA">106253</dato>
+        <dato nombre_dato="D_DEPENDENCIA">BIBLIOTECA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_3">
+        <dato nombre_dato="X_DEPENDENCIA">106254</dato>
+        <dato nombre_dato="D_DEPENDENCIA">GIMNASIO</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_4">
+        <dato nombre_dato="X_DEPENDENCIA">106256</dato>
+        <dato nombre_dato="D_DEPENDENCIA">SALÓN DE ACTOS</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_5">
+        <dato nombre_dato="X_DEPENDENCIA">106257</dato>
+        <dato nombre_dato="D_DEPENDENCIA">SALA PROFESORADO</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_6">
+        <dato nombre_dato="X_DEPENDENCIA">106721</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE ED. FÍSICA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_7">
+        <dato nombre_dato="X_DEPENDENCIA">106722</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE FILOSOFÍA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_8">
+        <dato nombre_dato="X_DEPENDENCIA">106727</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE ORIENTACIÓN</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_9">
+        <dato nombre_dato="X_DEPENDENCIA">106720</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE CULTURA CLÁSICA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_10">
+        <dato nombre_dato="X_DEPENDENCIA">106725</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE MATEMÁTICAS</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_11">
+        <dato nombre_dato="X_DEPENDENCIA">106252</dato>
+        <dato nombre_dato="D_DEPENDENCIA">TALLER DE TECNOLOGÍA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_12">
+        <dato nombre_dato="X_DEPENDENCIA">106255</dato>
+        <dato nombre_dato="D_DEPENDENCIA">PISTA DEPORTIVA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_13">
+        <dato nombre_dato="X_DEPENDENCIA">106733</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE LCL</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_14">
+        <dato nombre_dato="X_DEPENDENCIA">106730</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE EPV</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_15">
+        <dato nombre_dato="X_DEPENDENCIA">106731</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE FYQ</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_16">
+        <dato nombre_dato="X_DEPENDENCIA">106732</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE INGLÉS</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_17">
+        <dato nombre_dato="X_DEPENDENCIA">106735</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE RELIGIÓN</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_18">
+        <dato nombre_dato="X_DEPENDENCIA">106728</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE BYG</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_19">
+        <dato nombre_dato="X_DEPENDENCIA">106729</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE CCSS</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_20">
+        <dato nombre_dato="X_DEPENDENCIA">106734</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE MÚSICA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_21">
+        <dato nombre_dato="X_DEPENDENCIA">106736</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE TECNOLOGÍA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_22">
+        <dato nombre_dato="X_DEPENDENCIA">106259</dato>
+        <dato nombre_dato="D_DEPENDENCIA">AULA DE DIBUJO</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_23">
+        <dato nombre_dato="X_DEPENDENCIA">106260</dato>
+        <dato nombre_dato="D_DEPENDENCIA">LABORATORIO DE BIOLOGÍA Y GEOLOGÍA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_24">
+        <dato nombre_dato="X_DEPENDENCIA">106262</dato>
+        <dato nombre_dato="D_DEPENDENCIA">AULA DE DIBUJO TECNICO</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_25">
+        <dato nombre_dato="X_DEPENDENCIA">106738</dato>
+        <dato nombre_dato="D_DEPENDENCIA">DEPARTAMENTO DE INFORMÁTICA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_26">
+        <dato nombre_dato="X_DEPENDENCIA">106261</dato>
+        <dato nombre_dato="D_DEPENDENCIA">LABORATORIO DE FISICA Y QUÍMICA</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_27">
+        <dato nombre_dato="X_DEPENDENCIA">106311</dato>
+        <dato nombre_dato="D_DEPENDENCIA">AULA ATAL</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_28">
+        <dato nombre_dato="X_DEPENDENCIA">113725</dato>
+        <dato nombre_dato="D_DEPENDENCIA">AULA DE FPB1</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_29">
+        <dato nombre_dato="X_DEPENDENCIA">113723</dato>
+        <dato nombre_dato="D_DEPENDENCIA">AULA DE ASIR1</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_30">
+        <dato nombre_dato="X_DEPENDENCIA">113724</dato>
+        <dato nombre_dato="D_DEPENDENCIA">AULA DE ASIR2</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_31">
+        <dato nombre_dato="X_DEPENDENCIA">113726</dato>
+        <dato nombre_dato="D_DEPENDENCIA">AULA DE FPB2</dato>
+      </grupo_datos>
+      <grupo_datos seq="DEPENDENCIA_32">
+        <dato nombre_dato="X_DEPENDENCIA">106258</dato>
+        <dato nombre_dato="D_DEPENDENCIA">AULA DE MÚSICA</dato>
+      </grupo_datos>
+    </grupo_datos>
+    <grupo_datos seq="JORNADAS_ESCOLARES" registros="1">
+      <grupo_datos seq="JORNADA_ESCOLAR_1">
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+        <dato nombre_dato="C_NOMBRE">5 mañanas y 1 tarde</dato>
+        <dato nombre_dato="F_INIHORREG">01/09/2015</dato>
+        <dato nombre_dato="F_FINHORREG">31/08/2016</dato>
+      </grupo_datos>
+    </grupo_datos>
+    <grupo_datos seq="TRAMOS_HORARIOS" registros="11">
+      <grupo_datos seq="TRAMO_1">
+        <dato nombre_dato="X_TRAMO">1563343</dato>
+        <dato nombre_dato="T_HORCEN">0º</dato>
+        <dato nombre_dato="N_INICIO">490</dato>
+        <dato nombre_dato="N_FIN">510</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_2">
+        <dato nombre_dato="X_TRAMO">1563345</dato>
+        <dato nombre_dato="T_HORCEN">1º</dato>
+        <dato nombre_dato="N_INICIO">510</dato>
+        <dato nombre_dato="N_FIN">570</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_3">
+        <dato nombre_dato="X_TRAMO">1563347</dato>
+        <dato nombre_dato="T_HORCEN">2º</dato>
+        <dato nombre_dato="N_INICIO">570</dato>
+        <dato nombre_dato="N_FIN">630</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_4">
+        <dato nombre_dato="X_TRAMO">1563349</dato>
+        <dato nombre_dato="T_HORCEN">3º</dato>
+        <dato nombre_dato="N_INICIO">630</dato>
+        <dato nombre_dato="N_FIN">690</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_5">
+        <dato nombre_dato="X_TRAMO">1563351</dato>
+        <dato nombre_dato="T_HORCEN">4º</dato>
+        <dato nombre_dato="N_INICIO">690</dato>
+        <dato nombre_dato="N_FIN">720</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_6">
+        <dato nombre_dato="X_TRAMO">1563353</dato>
+        <dato nombre_dato="T_HORCEN">5º</dato>
+        <dato nombre_dato="N_INICIO">720</dato>
+        <dato nombre_dato="N_FIN">780</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_7">
+        <dato nombre_dato="X_TRAMO">1563355</dato>
+        <dato nombre_dato="T_HORCEN">6º</dato>
+        <dato nombre_dato="N_INICIO">780</dato>
+        <dato nombre_dato="N_FIN">840</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_8">
+        <dato nombre_dato="X_TRAMO">1563357</dato>
+        <dato nombre_dato="T_HORCEN">7º</dato>
+        <dato nombre_dato="N_INICIO">840</dato>
+        <dato nombre_dato="N_FIN">900</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_9">
+        <dato nombre_dato="X_TRAMO">1563359</dato>
+        <dato nombre_dato="T_HORCEN">8º</dato>
+        <dato nombre_dato="N_INICIO">900</dato>
+        <dato nombre_dato="N_FIN">940</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_10">
+        <dato nombre_dato="X_TRAMO">1563361</dato>
+        <dato nombre_dato="T_HORCEN">9º</dato>
+        <dato nombre_dato="N_INICIO">960</dato>
+        <dato nombre_dato="N_FIN">1020</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+      <grupo_datos seq="TRAMO_11">
+        <dato nombre_dato="X_TRAMO">1563363</dato>
+        <dato nombre_dato="T_HORCEN">10º</dato>
+        <dato nombre_dato="N_INICIO">1020</dato>
+        <dato nombre_dato="N_FIN">1080</dato>
+        <dato nombre_dato="X_PLAJORESCCEN">178594</dato>
+      </grupo_datos>
+    </grupo_datos>
+    <grupo_datos seq="UNIDADES" registros="32">
+      <grupo_datos seq="UNIDAD_CURSO_1">
+        <dato nombre_dato="X_UNIDAD">3515871</dato>
+        <dato nombre_dato="T_NOMBRE">1E-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_2">
+        <dato nombre_dato="X_UNIDAD">3515872</dato>
+        <dato nombre_dato="T_NOMBRE">1E-B</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_3">
+        <dato nombre_dato="X_UNIDAD">3515873</dato>
+        <dato nombre_dato="T_NOMBRE">1E-C</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_4">
+        <dato nombre_dato="X_UNIDAD">3515874</dato>
+        <dato nombre_dato="T_NOMBRE">1E-D</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_5">
+        <dato nombre_dato="X_UNIDAD">3515875</dato>
+        <dato nombre_dato="T_NOMBRE">1E-E</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_6">
+        <dato nombre_dato="X_UNIDAD">3515876</dato>
+        <dato nombre_dato="T_NOMBRE">1E-F</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101140</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_7">
+        <dato nombre_dato="X_UNIDAD">3515880</dato>
+        <dato nombre_dato="T_NOMBRE">2E-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_8">
+        <dato nombre_dato="X_UNIDAD">3515881</dato>
+        <dato nombre_dato="T_NOMBRE">2E-B</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_9">
+        <dato nombre_dato="X_UNIDAD">3515882</dato>
+        <dato nombre_dato="T_NOMBRE">2E-C</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_10">
+        <dato nombre_dato="X_UNIDAD">3515883</dato>
+        <dato nombre_dato="T_NOMBRE">2E-D</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_11">
+        <dato nombre_dato="X_UNIDAD">3515884</dato>
+        <dato nombre_dato="T_NOMBRE">2E-E</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_12">
+        <dato nombre_dato="X_UNIDAD">3515885</dato>
+        <dato nombre_dato="T_NOMBRE">2E-F</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101141</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_13">
+        <dato nombre_dato="X_UNIDAD">3515887</dato>
+        <dato nombre_dato="T_NOMBRE">3E-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_14">
+        <dato nombre_dato="X_UNIDAD">3515888</dato>
+        <dato nombre_dato="T_NOMBRE">3E-B</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_15">
+        <dato nombre_dato="X_UNIDAD">3515889</dato>
+        <dato nombre_dato="T_NOMBRE">3E-C</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_16">
+        <dato nombre_dato="X_UNIDAD">3515890</dato>
+        <dato nombre_dato="T_NOMBRE">3E-D</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_17">
+        <dato nombre_dato="X_UNIDAD">3515891</dato>
+        <dato nombre_dato="T_NOMBRE">3E-E</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101142</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_18">
+        <dato nombre_dato="X_UNIDAD">3515896</dato>
+        <dato nombre_dato="T_NOMBRE">4E-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_19">
+        <dato nombre_dato="X_UNIDAD">3515897</dato>
+        <dato nombre_dato="T_NOMBRE">4E-B</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_20">
+        <dato nombre_dato="X_UNIDAD">3515898</dato>
+        <dato nombre_dato="T_NOMBRE">4E-C</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_21">
+        <dato nombre_dato="X_UNIDAD">3515899</dato>
+        <dato nombre_dato="T_NOMBRE">4E-D</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">101143</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_22">
+        <dato nombre_dato="X_UNIDAD">3515905</dato>
+        <dato nombre_dato="T_NOMBRE">1B-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_23">
+        <dato nombre_dato="X_UNIDAD">3515908</dato>
+        <dato nombre_dato="T_NOMBRE">1B-B</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">106183</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_24">
+        <dato nombre_dato="X_UNIDAD">3515908</dato>
+        <dato nombre_dato="T_NOMBRE">1B-B</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_25">
+        <dato nombre_dato="X_UNIDAD">3515910</dato>
+        <dato nombre_dato="T_NOMBRE">1B-C</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">106201</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_26">
+        <dato nombre_dato="X_UNIDAD">3515912</dato>
+        <dato nombre_dato="T_NOMBRE">2B-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">6204</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_27">
+        <dato nombre_dato="X_UNIDAD">3515916</dato>
+        <dato nombre_dato="T_NOMBRE">2B-B</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_28">
+        <dato nombre_dato="X_UNIDAD">3515917</dato>
+        <dato nombre_dato="T_NOMBRE">2B-C</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">2067</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_29">
+        <dato nombre_dato="X_UNIDAD">3515918</dato>
+        <dato nombre_dato="T_NOMBRE">1I-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">103675</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_30">
+        <dato nombre_dato="X_UNIDAD">3515920</dato>
+        <dato nombre_dato="T_NOMBRE">2I-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">103679</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_31">
+        <dato nombre_dato="X_UNIDAD">3515921</dato>
+        <dato nombre_dato="T_NOMBRE">1F-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">105806</dato>
+      </grupo_datos>
+      <grupo_datos seq="UNIDAD_CURSO_32">
+        <dato nombre_dato="X_UNIDAD">3515923</dato>
+        <dato nombre_dato="T_NOMBRE">2F-A</dato>
+        <dato nombre_dato="X_OFERTAMATRIG">105825</dato>
+      </grupo_datos>
+    </grupo_datos>
+    <grupo_datos seq="EMPLEADOS" registros="67">
+      <grupo_datos seq="PROFESOR_1">
+        <dato nombre_dato="X_EMPLEADO">185106</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2010</dato>
+        <dato nombre_dato="D_PUESTO">Lengua Castellana y Literatura P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Banderas</dato>
+        <dato nombre_dato="APELLIDO2">Alcántara</dato>
+        <dato nombre_dato="NOMBRE">Yolanda</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_2">
+        <dato nombre_dato="X_EMPLEADO">217168</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Biología y Geología (Inglés) P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Barea</dato>
+        <dato nombre_dato="APELLIDO2">Malagón</dato>
+        <dato nombre_dato="NOMBRE">Amaya</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_3">
+        <dato nombre_dato="X_EMPLEADO">181588</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Lengua Castellana y Literatura P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Barruezo</dato>
+        <dato nombre_dato="APELLIDO2">González</dato>
+        <dato nombre_dato="NOMBRE">María Vanesa</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_4">
+        <dato nombre_dato="X_EMPLEADO">149634</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Lengua Castellana y Literatura P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Berlanga</dato>
+        <dato nombre_dato="APELLIDO2">Martínez</dato>
+        <dato nombre_dato="NOMBRE">María del Rocío</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_5">
+        <dato nombre_dato="X_EMPLEADO">187303</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Biología y Geología P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Blanco</dato>
+        <dato nombre_dato="APELLIDO2">Avilés</dato>
+        <dato nombre_dato="NOMBRE">Almudena</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_6">
+        <dato nombre_dato="X_EMPLEADO">154988</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2008</dato>
+        <dato nombre_dato="D_PUESTO">Cultura Clásica P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Borrachero</dato>
+        <dato nombre_dato="APELLIDO2">Valderrama</dato>
+        <dato nombre_dato="NOMBRE">María Isabel</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_7">
+        <dato nombre_dato="X_EMPLEADO">32928</dato>
+        <dato nombre_dato="F_TOMAPOS">10/10/1997</dato>
+        <dato nombre_dato="D_PUESTO">Idioma Extranjero-Francés (Secundaria)</dato>
+        <dato nombre_dato="APELLIDO1">Bravo</dato>
+        <dato nombre_dato="APELLIDO2">Gamero</dato>
+        <dato nombre_dato="NOMBRE">Purificación</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_8">
+        <dato nombre_dato="X_EMPLEADO">87304</dato>
+        <dato nombre_dato="F_TOMAPOS">15/09/1995</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Briales</dato>
+        <dato nombre_dato="APELLIDO2">González</dato>
+        <dato nombre_dato="NOMBRE">Francisco José</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_9">
+        <dato nombre_dato="X_EMPLEADO">150452</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2006</dato>
+        <dato nombre_dato="D_PUESTO">Dibujo P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Briones</dato>
+        <dato nombre_dato="APELLIDO2">Martínez</dato>
+        <dato nombre_dato="NOMBRE">Pablo</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_10">
+        <dato nombre_dato="X_EMPLEADO">130024</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2010</dato>
+        <dato nombre_dato="D_PUESTO">Francés P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Bueno</dato>
+        <dato nombre_dato="APELLIDO2">Sánchez</dato>
+        <dato nombre_dato="NOMBRE">Sonia</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_11">
+        <dato nombre_dato="X_EMPLEADO">143366</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Sistemas y Aplic. Informáticos P.T.F.P.</dato>
+        <dato nombre_dato="APELLIDO1">Cabello</dato>
+        <dato nombre_dato="APELLIDO2">González</dato>
+        <dato nombre_dato="NOMBRE">Ana María</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_12">
+        <dato nombre_dato="X_EMPLEADO">207600</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Inglés P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Cabrera</dato>
+        <dato nombre_dato="APELLIDO2">Alcázar</dato>
+        <dato nombre_dato="NOMBRE">Mario</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_13">
+        <dato nombre_dato="X_EMPLEADO">130134</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2010</dato>
+        <dato nombre_dato="D_PUESTO">Informática P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Cáceres</dato>
+        <dato nombre_dato="APELLIDO2">Caro</dato>
+        <dato nombre_dato="NOMBRE">Silvia</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_14">
+        <dato nombre_dato="X_EMPLEADO">35722</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2014</dato>
+        <dato nombre_dato="D_PUESTO">Orientación Educativa P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Clavero</dato>
+        <dato nombre_dato="APELLIDO2">Ranea</dato>
+        <dato nombre_dato="NOMBRE">María Gracia</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_15">
+        <dato nombre_dato="X_EMPLEADO">107112</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Música P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Cortes</dato>
+        <dato nombre_dato="APELLIDO2">García</dato>
+        <dato nombre_dato="NOMBRE">Cristóbal</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_16">
+        <dato nombre_dato="X_EMPLEADO">171703</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Física y Química P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Delgado</dato>
+        <dato nombre_dato="APELLIDO2">Álvarez</dato>
+        <dato nombre_dato="NOMBRE">Manuel</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_17">
+        <dato nombre_dato="X_EMPLEADO">185906</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2010</dato>
+        <dato nombre_dato="D_PUESTO">Tecnología P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Durán</dato>
+        <dato nombre_dato="APELLIDO2">Cardona</dato>
+        <dato nombre_dato="NOMBRE">José Alberto</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_18">
+        <dato nombre_dato="X_EMPLEADO">51898</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2004</dato>
+        <dato nombre_dato="D_PUESTO">Inglés P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Fernández</dato>
+        <dato nombre_dato="APELLIDO2">Domínguez</dato>
+        <dato nombre_dato="NOMBRE">Miguel Antonio</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_19">
+        <dato nombre_dato="X_EMPLEADO">21268</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2003</dato>
+        <dato nombre_dato="D_PUESTO">Orientación Educativa P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Fernández</dato>
+        <dato nombre_dato="APELLIDO2">Sarria</dato>
+        <dato nombre_dato="NOMBRE">Juan</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_20">
+        <dato nombre_dato="X_EMPLEADO">112810</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Sistemas y Aplic. Informáticos P.T.F.P.</dato>
+        <dato nombre_dato="APELLIDO1">Fernández</dato>
+        <dato nombre_dato="APELLIDO2">Vargas</dato>
+        <dato nombre_dato="NOMBRE">Isabel</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_21">
+        <dato nombre_dato="X_EMPLEADO">96774</dato>
+        <dato nombre_dato="F_TOMAPOS">02/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Laboral Religión (Sec-Ere) Jor.Completa</dato>
+        <dato nombre_dato="APELLIDO1">Fortea</dato>
+        <dato nombre_dato="APELLIDO2">Salto</dato>
+        <dato nombre_dato="NOMBRE">Rosa</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_22">
+        <dato nombre_dato="X_EMPLEADO">204224</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Geografía e Historia P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Gallego</dato>
+        <dato nombre_dato="APELLIDO2">Castro</dato>
+        <dato nombre_dato="NOMBRE">Miriam</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_23">
+        <dato nombre_dato="X_EMPLEADO">10406</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2000</dato>
+        <dato nombre_dato="D_PUESTO">Educación Física P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">García</dato>
+        <dato nombre_dato="APELLIDO2">Cárdenas</dato>
+        <dato nombre_dato="NOMBRE">Francisca</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_24">
+        <dato nombre_dato="X_EMPLEADO">159390</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">García</dato>
+        <dato nombre_dato="APELLIDO2">González</dato>
+        <dato nombre_dato="NOMBRE">Francisco José</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_25">
+        <dato nombre_dato="X_EMPLEADO">81685</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2008</dato>
+        <dato nombre_dato="D_PUESTO">Física y Química P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">García</dato>
+        <dato nombre_dato="APELLIDO2">Guzmán</dato>
+        <dato nombre_dato="NOMBRE">María Fuensanta</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_26">
+        <dato nombre_dato="X_EMPLEADO">137095</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2014</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">García</dato>
+        <dato nombre_dato="APELLIDO2">Revidiego</dato>
+        <dato nombre_dato="NOMBRE">María Belén</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_27">
+        <dato nombre_dato="X_EMPLEADO">160711</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2010</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas (Inglés) P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">García</dato>
+        <dato nombre_dato="APELLIDO2">Rodríguez</dato>
+        <dato nombre_dato="NOMBRE">Celia</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_28">
+        <dato nombre_dato="X_EMPLEADO">138145</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2010</dato>
+        <dato nombre_dato="D_PUESTO">Filosofía P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Gómez</dato>
+        <dato nombre_dato="APELLIDO2">Montabes</dato>
+        <dato nombre_dato="NOMBRE">María Isabel</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_29">
+        <dato nombre_dato="X_EMPLEADO">161081</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas (Inglés) P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">González</dato>
+        <dato nombre_dato="APELLIDO2">Bautista</dato>
+        <dato nombre_dato="NOMBRE">Catalina</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_30">
+        <dato nombre_dato="X_EMPLEADO">136945</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2008</dato>
+        <dato nombre_dato="D_PUESTO">Lengua Castellana y Literatura P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">González</dato>
+        <dato nombre_dato="APELLIDO2">Lozano</dato>
+        <dato nombre_dato="NOMBRE">Raquel</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_31">
+        <dato nombre_dato="X_EMPLEADO">185780</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2010</dato>
+        <dato nombre_dato="D_PUESTO">Inglés P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Hijosa</dato>
+        <dato nombre_dato="APELLIDO2">González</dato>
+        <dato nombre_dato="NOMBRE">Virginia</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_32">
+        <dato nombre_dato="X_EMPLEADO">87353</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2000</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Jiménez</dato>
+        <dato nombre_dato="APELLIDO2">Girón</dato>
+        <dato nombre_dato="NOMBRE">Manuel</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_33">
+        <dato nombre_dato="X_EMPLEADO">32108</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2014</dato>
+        <dato nombre_dato="D_PUESTO">Pedagogía Terapeutica Eso</dato>
+        <dato nombre_dato="APELLIDO1">Jiménez</dato>
+        <dato nombre_dato="APELLIDO2">Luna</dato>
+        <dato nombre_dato="NOMBRE">María José</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_34">
+        <dato nombre_dato="X_EMPLEADO">101500</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2010</dato>
+        <dato nombre_dato="D_PUESTO">Inglés P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Jiménez</dato>
+        <dato nombre_dato="APELLIDO2">Urbano</dato>
+        <dato nombre_dato="NOMBRE">Ángeles</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_35">
+        <dato nombre_dato="X_EMPLEADO">129842</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2009</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">León</dato>
+        <dato nombre_dato="APELLIDO2">Guzmán</dato>
+        <dato nombre_dato="NOMBRE">Miguel</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_36">
+        <dato nombre_dato="X_EMPLEADO">178349</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">López</dato>
+        <dato nombre_dato="APELLIDO2">Alba</dato>
+        <dato nombre_dato="NOMBRE">María del Rosario</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_37">
+        <dato nombre_dato="X_EMPLEADO">230171</dato>
+        <dato nombre_dato="F_TOMAPOS">21/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Geografía e Historia P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">López</dato>
+        <dato nombre_dato="APELLIDO2">Caballero</dato>
+        <dato nombre_dato="NOMBRE">Mariano</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_38">
+        <dato nombre_dato="X_EMPLEADO">9692</dato>
+        <dato nombre_dato="F_TOMAPOS">15/09/1998</dato>
+        <dato nombre_dato="D_PUESTO">Física y Química P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">López</dato>
+        <dato nombre_dato="APELLIDO2">Jerez</dato>
+        <dato nombre_dato="NOMBRE">Manuel</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_39">
+        <dato nombre_dato="X_EMPLEADO">146361</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Programas Cualificacion Prof. Inicial</dato>
+        <dato nombre_dato="APELLIDO1">López</dato>
+        <dato nombre_dato="APELLIDO2">Muñoz</dato>
+        <dato nombre_dato="NOMBRE">Elena María</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_40">
+        <dato nombre_dato="X_EMPLEADO">182011</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Geografía e Historia P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Luque</dato>
+        <dato nombre_dato="APELLIDO2">Ortiz</dato>
+        <dato nombre_dato="NOMBRE">Fuensanta</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_41">
+        <dato nombre_dato="X_EMPLEADO">220756</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Francés P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Machado</dato>
+        <dato nombre_dato="APELLIDO2">Recio</dato>
+        <dato nombre_dato="NOMBRE">María Jesús</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_42">
+        <dato nombre_dato="X_EMPLEADO">169313</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Tecnología P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Martín</dato>
+        <dato nombre_dato="APELLIDO2">Carnero</dato>
+        <dato nombre_dato="NOMBRE">María Trinidad</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_43">
+        <dato nombre_dato="X_EMPLEADO">112985</dato>
+        <dato nombre_dato="F_TOMAPOS">03/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Interculturalidad</dato>
+        <dato nombre_dato="APELLIDO1">Mora</dato>
+        <dato nombre_dato="APELLIDO2">Anaya</dato>
+        <dato nombre_dato="NOMBRE">Margarita María</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_44">
+        <dato nombre_dato="X_EMPLEADO">178235</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2014</dato>
+        <dato nombre_dato="D_PUESTO">Geografía e Historia (Inglés) P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Moreno</dato>
+        <dato nombre_dato="APELLIDO2">Espinosa</dato>
+        <dato nombre_dato="NOMBRE">Antonio</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_45">
+        <dato nombre_dato="X_EMPLEADO">167705</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2008</dato>
+        <dato nombre_dato="D_PUESTO">Geografía e Historia P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Moreno</dato>
+        <dato nombre_dato="APELLIDO2">Moreno</dato>
+        <dato nombre_dato="NOMBRE">Antonio Diego</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_46">
+        <dato nombre_dato="X_EMPLEADO">84552</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/1999</dato>
+        <dato nombre_dato="D_PUESTO">Idioma Extranjero-Inglés (Secundaria)</dato>
+        <dato nombre_dato="APELLIDO1">Navarro</dato>
+        <dato nombre_dato="APELLIDO2">Narváez</dato>
+        <dato nombre_dato="NOMBRE">Concepción</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_47">
+        <dato nombre_dato="X_EMPLEADO">185021</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2010</dato>
+        <dato nombre_dato="D_PUESTO">Inglés P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Oliva</dato>
+        <dato nombre_dato="APELLIDO2">Jiménez</dato>
+        <dato nombre_dato="NOMBRE">María de la</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_48">
+        <dato nombre_dato="X_EMPLEADO">209490</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Geografía e Historia P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Ordóñez</dato>
+        <dato nombre_dato="APELLIDO2">Pérez</dato>
+        <dato nombre_dato="NOMBRE">María Luisa</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_49">
+        <dato nombre_dato="X_EMPLEADO">228438</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Geografía e Historia (Inglés) P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Ostua</dato>
+        <dato nombre_dato="APELLIDO2">Gallardo</dato>
+        <dato nombre_dato="NOMBRE">Ignacio</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_50">
+        <dato nombre_dato="X_EMPLEADO">178401</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Pabón</dato>
+        <dato nombre_dato="APELLIDO2">Agua</dato>
+        <dato nombre_dato="NOMBRE">Gustavo Adolfo</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_51">
+        <dato nombre_dato="X_EMPLEADO">81764</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2003</dato>
+        <dato nombre_dato="D_PUESTO">Lengua Castellana y Literatura P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Peña</dato>
+        <dato nombre_dato="APELLIDO2">Lucena</dato>
+        <dato nombre_dato="NOMBRE">M. Mercedes</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_52">
+        <dato nombre_dato="X_EMPLEADO">181334</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Pérez</dato>
+        <dato nombre_dato="APELLIDO2">García</dato>
+        <dato nombre_dato="NOMBRE">José María</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_53">
+        <dato nombre_dato="X_EMPLEADO">35477</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2013</dato>
+        <dato nombre_dato="D_PUESTO">Geografía e Historia P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Plaza</dato>
+        <dato nombre_dato="APELLIDO2">Galiano</dato>
+        <dato nombre_dato="NOMBRE">Antonia</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_54">
+        <dato nombre_dato="X_EMPLEADO">125960</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2001</dato>
+        <dato nombre_dato="D_PUESTO">Música P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Ramos</dato>
+        <dato nombre_dato="APELLIDO2">Esperante</dato>
+        <dato nombre_dato="NOMBRE">Manuel</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_55">
+        <dato nombre_dato="X_EMPLEADO">204682</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Formac. Prof. Básica Inform. y Comun.</dato>
+        <dato nombre_dato="APELLIDO1">Raya</dato>
+        <dato nombre_dato="APELLIDO2">Narváez</dato>
+        <dato nombre_dato="NOMBRE">Guillermo</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_56">
+        <dato nombre_dato="X_EMPLEADO">159253</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Educación Física (Inglés) P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Rodríguez</dato>
+        <dato nombre_dato="APELLIDO2">Aira</dato>
+        <dato nombre_dato="NOMBRE">Carlos</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_57">
+        <dato nombre_dato="X_EMPLEADO">90731</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2005</dato>
+        <dato nombre_dato="D_PUESTO">Lengua Castellana y Literatura P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Rodríguez</dato>
+        <dato nombre_dato="APELLIDO2">Bonilla</dato>
+        <dato nombre_dato="NOMBRE">Juan</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_58">
+        <dato nombre_dato="X_EMPLEADO">134756</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Dibujo P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Rosa</dato>
+        <dato nombre_dato="APELLIDO2">García</dato>
+        <dato nombre_dato="NOMBRE">José Antonio</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_59">
+        <dato nombre_dato="X_EMPLEADO">11044</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Biología y Geología P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Rueda</dato>
+        <dato nombre_dato="APELLIDO2">Fernández</dato>
+        <dato nombre_dato="NOMBRE">María</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_60">
+        <dato nombre_dato="X_EMPLEADO">178397</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Inglés P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Ruiz</dato>
+        <dato nombre_dato="APELLIDO2">Lafuente</dato>
+        <dato nombre_dato="NOMBRE">María Elizabeth</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_61">
+        <dato nombre_dato="X_EMPLEADO">133332</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2011</dato>
+        <dato nombre_dato="D_PUESTO">Informática P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Ruiz</dato>
+        <dato nombre_dato="APELLIDO2">Rubio</dato>
+        <dato nombre_dato="NOMBRE">Rafael</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_62">
+        <dato nombre_dato="X_EMPLEADO">160976</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Lengua Castellana y Literatura P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Ruiz</dato>
+        <dato nombre_dato="APELLIDO2">Soler</dato>
+        <dato nombre_dato="NOMBRE">María del Carmen</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_63">
+        <dato nombre_dato="X_EMPLEADO">150467</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Informática P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Sánchez</dato>
+        <dato nombre_dato="APELLIDO2">Bujaldón</dato>
+        <dato nombre_dato="NOMBRE">Antonio José</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_64">
+        <dato nombre_dato="X_EMPLEADO">232354</dato>
+        <dato nombre_dato="F_TOMAPOS">09/09/2015</dato>
+        <dato nombre_dato="D_PUESTO">Apoyo Curric.Sordos A. Lengua y C.Social</dato>
+        <dato nombre_dato="APELLIDO1">Sánchez</dato>
+        <dato nombre_dato="APELLIDO2">González</dato>
+        <dato nombre_dato="NOMBRE">Irene María</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_65">
+        <dato nombre_dato="X_EMPLEADO">109489</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2009</dato>
+        <dato nombre_dato="D_PUESTO">Educación Física P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Sánchez</dato>
+        <dato nombre_dato="APELLIDO2">Urbano</dato>
+        <dato nombre_dato="NOMBRE">Salvador</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_66">
+        <dato nombre_dato="X_EMPLEADO">145048</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2012</dato>
+        <dato nombre_dato="D_PUESTO">Biología y Geología (Inglés) P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Sanz</dato>
+        <dato nombre_dato="APELLIDO2">Mateos</dato>
+        <dato nombre_dato="NOMBRE">Esperanza Macarena</dato>
+      </grupo_datos>
+      <grupo_datos seq="PROFESOR_67">
+        <dato nombre_dato="X_EMPLEADO">120538</dato>
+        <dato nombre_dato="F_TOMAPOS">01/09/2013</dato>
+        <dato nombre_dato="D_PUESTO">Matemáticas P.E.S.</dato>
+        <dato nombre_dato="APELLIDO1">Serón</dato>
+        <dato nombre_dato="APELLIDO2">Burgos</dato>
+        <dato nombre_dato="NOMBRE">María Inmaculada</dato>
+      </grupo_datos>
+    </grupo_datos>
+  </BLOQUE_DATOS>
+</SERVICIO>

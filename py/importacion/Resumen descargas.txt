@@ -1,0 +1,18 @@
+DATOS GENERALES DEL CENTRO
+Utilidades -> Importación/Exportación de datos -> Exportacion hacia generadores de horarios
+Utilidades -> Importación/Exportación de datos -> Exportación de calificaciones
+
+RELACIÓN DE ALUMNOS
+Alumnado -> Alumnado -> Alumnado del centro -> Aceptar -> Exportar formato texto plano/CSV
+
+RELACIÓN DE PROFESORES
+Personal -> Personal del Centro -> Exportar formato texto plano/CSV
+
+DATOS JEFES DEPARTAMENTOS
+Centro -> Organos de coodinación docente -> Vigentes/cualquiera -> Exportar formato texto plano/CSV
+
+RELACIÓN MATERIAS|PROFESOR|UNIDADES
+Personal -> Personal del Centro -> Unidades y materias -> Exportar formato texto plano/CSV
+
+DIAS FESTIVOS
+Centro -> Calendario escolar -> Dias festivos -> Exportar formato texto plano/CSV
