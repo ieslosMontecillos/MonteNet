@@ -19,7 +19,7 @@ if (count($_POST)) {
 
         desconectar();
 
-        header("Location:welcome.php") ;
+        header("Location:importacion.php") ;
 
     }
 

@@ -25,27 +25,7 @@
     <![endif]-->
 </head>
 <body>
-	<header>
-		<nav>
-			<ul>
-				<li>Your menu</li>
-				<li>item 2</li>
-				<li>item 3</li>
-			</ul>
-		</nav>
-		<div class="container">
-			<form action="conexion.php" method="POST">
-				<table>
-					<tr>
-						<td><label for="profesor">Profesor:</label></td>
-						<td><input type="text" name="profesor" required/></td>
-					</tr>
-					<tr>
-						<td><label for="clave">Contraseña:</label></td>
-						<td><input type="password" name="contrasena" required /></td>
-					</tr>
-					<button type="submit" class="desktop-20">Enviar</button>
-				</table>
-			</form>
-		</div>
-	</header>
+	<div class="container">
+		<header>
+			<h1>MonteNet</h1>
+		</header>
