@@ -1,7 +1,7 @@
 <?php 
 
 function conectar(){
-    $con = mysql_connect("localhost","montenet","1234") or die ('No se puede conectar : '. mysql_error()) ;
+    $con = mysql_connect("localhost","root","1234") or die ('No se puede conectar : '. mysql_error()) ;
     // echo "Conectado con exito.";
     mysql_select_db("montenet") ;
 }
