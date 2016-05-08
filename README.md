@@ -92,7 +92,7 @@ FALTA POR DETERMINAR
 
 #### Editor Texto.
 
-Respecto al editor de texto, actualmente ya se esta utilizando __bootstrap-wysiwyg__ si no me equivoco lo esta utilizando pepe.
+Respecto al editor de texto, actualmente ya se esta utilizando __bootstrap-wysiwyg__ si no me equivoco lo esta utilizando Pepe.
 
 Hay otros editores de texto como :
 
