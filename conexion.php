@@ -16,10 +16,10 @@ if (count($_POST)) {
         session_start() ;      
 
         $_SESSION["hora"] = date("d/m/Y") ;
-
+        $_SESSION["idea"] = $fila["idea"];
         desconectar();
 
-        header("Location:importacion.php") ;
+        header("Location:main.php") ;
 
     }
 

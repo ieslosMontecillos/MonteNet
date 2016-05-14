@@ -1,7 +1,8 @@
-		<footer>
-			<p><p>Copyright 2016 @ 2ASIR</p></p>
-		</footer>
-	</div>
+	<footer>
+		<div class="container">
+			<p class="text-center">Copyright 2016 @ 2ASIR</p>
+		</div>
+	</footer>
 	<!-- INTRODUCCIÓN DE JS -->
 
 	<!-- jQuery -->
