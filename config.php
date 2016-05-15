@@ -8,18 +8,18 @@ no_session();
 conectar();
 
 if (count($_POST)!=0) {
-	$id_centro = $_POST["id_centro"] ;
-    $nombre = $_POST["nombre"] ;
-    $email = $_POST["email"] ;
-    $direccion = $_POST["direccion"] ;
-    $cp = $_POST["cp"];
-    $localidad = $_POST["localidad"] ;
-    $provincia = $_POST["provincia"] ;
-    $telefono = $_POST["telefono"] ;
-    $fax = $_POST["fax"] ;
-    $director = $_POST["director"] ;
-    $jefe_estudio = $_POST["jefe_estudio"] ;
-    $secretario = $_POST["secretario"] ;
+	$id_centro = mysql_real_escape_string($_POST["id_centro"]) ;
+    $nombre = mysql_real_escape_string($_POST["nombre"]) ;
+    $email = mysql_real_escape_string($_POST["email"]) ;
+    $direccion = mysql_real_escape_string($_POST["direccion"]) ;
+    $cp = mysql_real_escape_string($_POST["cp"]);
+    $localidad = mysql_real_escape_string($_POST["localidad"]) ;
+    $provincia = mysql_real_escape_string($_POST["provincia"]) ;
+    $telefono = mysql_real_escape_string($_POST["telefono"]) ;
+    $fax = mysql_real_escape_string($_POST["fax"]) ;
+    $director = mysql_real_escape_string($_POST["director"]) ;
+    $jefe_estudio = mysql_real_escape_string($_POST["jefe_estudio"]) ;
+    $secretario = mysql_real_escape_string($_POST["secretario"]) ;
 
 
 
@@ -112,5 +112,5 @@ include 'header.php';
 
 <?php 
 include 'footer.php'; 
-	// desconectar();
+desconectar();
 ?>
