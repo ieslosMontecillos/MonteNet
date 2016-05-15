@@ -10,7 +10,9 @@ if (count($_POST)) {
 
     $res = mysql_query($sql) ;
 
-    if (mysql_num_rows($res) == 0) { echo "ERES UN IMPOSTOR!!!!" ; }
+    if (mysql_num_rows($res) == 0) { 
+        header("Location:index.php?login=false") ;
+    }
     else {
         $fila = mysql_fetch_assoc($res);
         session_start() ;      
